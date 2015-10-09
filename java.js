@@ -1,8 +1,8 @@
 /**
  * Created by session2 on 10/7/15.
  */
-google.load('visualization', '1', {packages: ['corechart', 'bar']});
-google.setOnLoadCallback(drawRightY);
+googlle.load('visualization', '1', {packages: ['corechart', 'bar']});
+googlle.setOnLoadCallback(drawRightY);
 
 function drawRightY() {
     var data = google.visualization.arrayToDataTable([
